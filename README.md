@@ -1,9 +1,10 @@
-# Malware Artwork for the series Illegal Knowledge
+# Miss Lexotan
+Malware Artwork for the series Illegal Knowledge
 
-## Interaction:
+### Interaction:
 - mouse track controls on 3D sculpture
 
-## Malware:
+### Malware:
 - a random variation of artwork driven by click events
 - site redirection to ecosia.com
 
